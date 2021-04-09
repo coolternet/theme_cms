@@ -1,11 +1,8 @@
 Minimum Requirement : 
-	Apache WebServer
-	PHP 7.1 to 7.4 
-	MySQL 5.7.26
 	Skills with Bootstrap 4.4.1
 	Skills with HTML / CSS / PhP
 
- - You need to rename the main folder named "templating_name" to another name.
+ - You need to rename the main folder named "template_name" to another name.
  - You can use differents folder to stocking some assets files or you can create one folder named "assets" and put the all others folder named CSS/IMG/JS into it.
  - Preview file need to be 640x440 with jpg ext.
 
