@@ -1,0 +1,13 @@
+{
+	"name": "Default",
+	"description": "Default theme",
+	"version": "1.0",
+	"authors": [
+        	"Evo-CMS <no@e-mail> (https://php.net)"
+	],
+	"exports": ["theme"],
+	"settings": {
+        	"logo" 	:  {"type": "image", "label": "Logo"},
+		"background":  {"type": "image", "label": "Background", "css": "body.website {background-image: url(%s) !important}"}
+	}
+}
